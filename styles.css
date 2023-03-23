@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.container{
+    background-color: rgba(89, 74, 74, 0.786);
+    border-radius: 10px;
+    padding: 20px;
+    width: 800px;
+}
+#photo-heading{
+    text-align: center;
+    color: white;
+}
+
+img{
+    width: 32%;
+    border-radius: 15px;
+}
